@@ -1,3 +1,3 @@
 # ChartsUI
 
-A description of this package.
+SwiftUI library for rendering charts with a custom, intuitive, declarative DSL
